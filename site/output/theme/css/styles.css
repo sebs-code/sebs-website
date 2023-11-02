@@ -71,6 +71,11 @@ ul {
   width: 15px;
 }
 
+.selected-link {
+  color: var(--orange);
+  text-decoration: underline dotted !important;
+}
+
 .social-link  {
   margin: 5px 0px 5px -6px;
 }

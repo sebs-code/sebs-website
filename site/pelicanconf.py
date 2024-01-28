@@ -4,6 +4,8 @@ SITEURL = 'https://sebs.website'
 
 PATH = 'content'
 
+OUTPUT_PATH = 'output/'
+
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'

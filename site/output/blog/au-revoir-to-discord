@@ -8,19 +8,19 @@
     <meta content=article property='og:type'/>
     <meta name="twitter:card" value="summary">
     <meta content='sebs.website' property='og:site_name'/>
-    <meta content="Sebastian David Lees · Homepage" property='og:title'/>
-    <meta content="https://sebs.website/static/seb.png" property='og:image'/>
-    <meta content="https://sebs.website/static/seb.png" name='twitter:image'/>
+    <meta content="Au Revoir to Discord" property='og:title'/>
+    <meta content="../img/au-revoir-to-discord.webp" property='og:image'/>
+    <meta content="../img/au-revoir-to-discord.webp" name='twitter:image'/>
     <meta content='@sebs_tweets' name='twitter:creator'/>
     <meta content='@sebs_tweets' name='twitter:site'/>
     <meta content='sebs.website' name='twitter:title'/>
     <meta name="keywords" content="software development, software engineering, datablast, fat tony's"/>
 
-    <title>Sebastian David Lees · Homepage</title>
+    <title>Au Revoir to Discord</title>
     <meta content='https://sebs.website/about' property='og:url'/>
-    <meta name="description" content="Personal and professional homepage of Sebastian David Lees. Sebastian is a software engineer and tinkerer who has spent over fifteen years building web applications and online experiences.">
-    <meta content="Personal and professional homepage of Sebastian David Lees. Sebastian is a software engineer and tinkerer who has spent over fifteen years building web applications and online experiences."  name='twitter:description'/>
-    <meta content="Personal and professional homepage of Sebastian David Lees. Sebastian is a software engineer and tinkerer who has spent over fifteen years building web applications and online experiences."  property='og:description'/>
+    <meta name="description" content="<p>After two wonderful years of Happy Hours, Book Klubs, and thousands of conversations, we will be closing down the Fat Tony’s Discord server on November 13th.</p>">
+    <meta content="<p>After two wonderful years of Happy Hours, Book Klubs, and thousands of conversations, we will be closing down the Fat Tony’s Discord server on November 13th.</p>"  name='twitter:description'/>
+    <meta content="<p>After two wonderful years of Happy Hours, Book Klubs, and thousands of conversations, we will be closing down the Fat Tony’s Discord server on November 13th.</p>"  property='og:description'/>
 
     <!-- Bootstrap, CSS & JS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
@@ -103,41 +103,37 @@
 
 
       <!-- content -->
-
 <section class="content">
   <div class="container mt-3">
-    <div class="row">
-      <div class="lh-100 w-100">
-        <h3 class="mb-0 lh-100 space-mono">👋 Hello</h3>
-          <p class="mt-3">I'm a software engineer & tinkerer, and have been building digital products for 15+ years. You can read more <a href="/about">about me</a> here.</p>
-        <hr class="mb-4">
-      </div>
-      <div class="lh-100 w-100">
-        <h3 class="mb-0 lh-100 space-mono">🖋️ Blog</h3>
-        <p class="mt-3">Over the years I've written articles on software development, pubs, and other stuff. You can read them <a href="/blog">here</a>.</p>
-        <hr>
-      </div>
-      <div class="lh-100 w-100">
-        <h3 class="mb-0 lh-100 space-mono">📸 Photography</h3>
-          <p class="mt-3">I'm a hobby photographer, and Leica fan. I enjoy taking photos of my travels, mainly <a href="/photography">street and architectural photography</a>.</p>
-        <hr>
-      </div>
-      <div class="lh-100 w-100">
-        <h3 class="mb-0 lh-100 space-mono">🎙️ Podcast</h3>
-        <p class="mt-3">In 2020, I created <a href="https://fattonys.net">Fat Tony's</a>, a podcast and community designed to help people navigate modernity.</p>
-        <hr class="mb-4">
-      </div>
-      <div class="lh-100 w-100">
-        <h3 class="mb-0 lh-100 space-mono">🛠️ Software Consulting</h3>
-        <p class="mt-3">Need help building software? I offer a range of software consulting services. Contact me <a href="https://datablast.com/contact">here</a>.</p>
-        <hr class="mb-4">
-      </div>
+    <div class="col-md-10 offset-md-1">
+      <h1 class="mb-3 lh-100 space-mono">
+      Au Revoir to Discord
+      </h1>
+      <span class="small footer mt-3 no-underline me-3">Apr 04, 2023</span>
+        <span class="badge rounded-pill text-bg-primary mb-3 bkg-blue">Fat Tony's</span>
+      <img src="../img/au-revoir-to-discord.webp" width="100%" class="rounded-2 mb-3" />
+      <div class="article mt-3">
+        <p><strong><em>“No public institution or agency should be created without an expiration date.”</em></strong> - Nassim Taleb.</p>
+<p>After two wonderful years of Happy Hours, Book Klubs, and thousands of conversations, we will be closing down the Fat Tony’s Discord server on November 13th.</p>
+<p>When I sent a Tweet out on election night of 2020, asking if anybody wanted to discuss the election, I had no plans in mind about building a community. The Discord server was meant to be a one night only thing, but then a little magic happened. The small group of people who responded to my tweet were eclectic, entertaining and maybe a little crazy. I wanted to see more of them…</p>
+<p>On that day, Fat Tony’s was born, and gradually evolved over the next couple of months into a virtual bar… A place where people could hang out during the global COVID lockdowns, have a drink on a Friday night and chat to people, attend live Q&amp;As with guests, and get some sense of escape from the madness that was happening around them. It acted as a social life raft during a difficult time for many many people. What followed were dozens of Happy hours, book klubs, and real life meet ups. Fat Tony’s had become a ‘thing’. In my mind, this was the golden age of the Discord Server.</p>
+<p>The Discord server continued to grow, peaking at around 900 members. However, once lockdowns began to lift around the world, people understandably returned to their normal lives, and attendance on Discord started to drop. A small core community remained, but it was clear that the server was in decline.</p>
+<p>I’m a big believer that there is a time and a place for everything, and have decided to shut the Discord server down. The attendance no longer justified the admin work / overhead required to run it, and to be honest, I’m ready to move onto new things, and continue to grow the Fat Tony’s YouTube channel / Twitter community in a new direction. In fact, I’m super excited about having the time freed up by this move to create more content.</p>
+<p>For people who wish to continue to run the “klubs” that have developed over the last few years, They are yours to continue however you wish (Twitter Spaces / Zoom etc...). Just tag Fat Tony’s on Twitter and we will retweet any announcements to the community.</p>
+<p>Not the end of Fat Tony’s… just the next step in its evolution! I see Fat Tony’s turning into a YouTube channel, with videos on navigating modernity… And we will still be organising the Happy Hours and Book Klubs through Twitter.</p>
+<p>Thanks to everyone for being such great community members on Discord over the last couple of years. I will always think of the time fondly (especially the early days, which were magical). It was great while it lasted, and I think it’s best to end on a high… to move onto new projects and to new things.</p>
+<p>See you out there!</p>
+<p>Seb</p>
+      </div><!-- .content -->
+      <hr class="mt-5">
+      <p>If you've made it this for I owe you a beer the next time I see you 🍺. Want to get in touch? <a href="http://twitter.com/sebs_tweets">Follow me on Twitter(X)</a>.</p>
+      <hr>
     </div>
   </div>
-</section><!-- /#content -->
+</section>
 
 <script>
-  let element = document.getElementById("home-link");
+  let element = document.getElementById("blog-link");
   element.classList.add("selected-link");
 </script>
 

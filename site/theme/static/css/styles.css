@@ -5,6 +5,7 @@
   --light-black: #070707;
   --off-white: #fafbf6;
   --orange: #F39C12;
+  --light-grey: #f0f0f0;
   --grey: grey;
 }
 
@@ -28,7 +29,7 @@ a {
 
 a:hover {
   color: var(--orange);
-  text-decoration: underline dotted !important;
+  text-decoration: underline dotted;
 }
 
 a:active {
@@ -84,6 +85,20 @@ ul {
   text-decoration: none !important;
 }
 
+.underline:hover {
+  color: var(--orange);
+  text-decoration: underline dotted;
+}
+
+.no-underline:hover {
+  text-decoration: none !important;
+}
+
+.blog-post:hover {
+  background-color: var(--light-grey);
+  transition: ease-in-out 0.3s;
+}
+
 /* ------ Fonts ------ */
 .space-mono {
   font-family: 'Space Mono', monospace;
@@ -98,4 +113,25 @@ ul {
   50% {
     opacity: 0;
   }
+}
+
+/* ------ Colours ------ */
+
+.light-black, .light-black:hover {
+  color: var(--light-black) !important;
+}
+
+/* ------ BackgroundColours ------ */
+.bkg-blue {
+   background-color: var(--blue) !important;
+}
+
+/* ------ Blog ------ */
+.article {
+  font-size: 1.1rem;
+}
+
+.first-letter {
+  font-size: 35px;
+  line-height: 70px;
 }

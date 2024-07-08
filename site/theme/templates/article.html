@@ -1,31 +1,38 @@
 {% extends "base.html" %}
 
+{% block title %}{{ article.title }}{% endblock %}
+{% block og_title %}{{ article.title }}{% endblock og_title %}
+{% block description %}{{ article.summary }}{% endblock description %}
+{% block x_description %}{{ article.summary }}{% endblock x_description %}
+{% block og_description %}{{ article.summary }}{% endblock og_description %}
+{% block og_image %}{{ SITEURL }}/img/{{ article.thumbnail }}{% endblock og_image %}
+{% block x_image %}{{ SITEURL }}/img/{{ article.thumbnail }}{% endblock x_image %}
+
 {% block content %}
-
 <section class="content">
-
-  <h3 class="posttitle">
-    <a class="nodec" href="/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+  <div class="container mt-3">
+    <div class="col-md-10 offset-md-1">
+      <h1 class="mb-3 lh-100 space-mono">
       {{ article.title }}
-    </a>
-  </h3>
-
-  <div class="postinfo">
-    <p class="published" title="{{ article.date.isoformat() }}">
-      {{ article.locale_date }}
-    </p>
-
-    {% if article.author and SHOW_ARTICLE_AUTHOR %}
-    <address class="vcard author">
-      By <a class="nodec" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>
-    </address>
-    {% endif  %}
-  </div><!-- .postinfo -->
-
-  <div class="article">
-    {{ article.content }}
-  </div><!-- .content -->
-
+      </h1>
+      <span class="small footer mt-3 no-underline me-3">{{ article.locale_date }}</span>
+      {% for tag in article.tags %}
+        <span class="badge rounded-pill text-bg-primary mb-3 bkg-blue">{{ tag.name }}</span>
+      {% endfor %}
+      <img src="{{ SITEURL }}/img/{{ article.thumbnail }}" width="100%" class="rounded-2 mb-3" />
+      <div class="article mt-3">
+        {{ article.content }}
+      </div><!-- .content -->
+      <hr class="mt-5">
+      <p>If you've made it this for I owe you a beer the next time I see you 🍺. Want to get in touch? <a href="http://twitter.com/sebs_tweets">Follow me on Twitter(X)</a>.</p>
+      <hr>
+    </div>
+  </div>
 </section>
+
+<script>
+  let element = document.getElementById("blog-link");
+  element.classList.add("selected-link");
+</script>
 
 {% endblock %}

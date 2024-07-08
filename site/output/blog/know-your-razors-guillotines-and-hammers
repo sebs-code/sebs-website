@@ -8,19 +8,19 @@
     <meta content=article property='og:type'/>
     <meta name="twitter:card" value="summary">
     <meta content='sebs.website' property='og:site_name'/>
-    <meta content="Sebastian David Lees · Homepage" property='og:title'/>
-    <meta content="https://sebs.website/static/seb.png" property='og:image'/>
-    <meta content="https://sebs.website/static/seb.png" name='twitter:image'/>
+    <meta content="Know your Razors, Guillotines & Hammers" property='og:title'/>
+    <meta content="../img/know-your-razors.webp" property='og:image'/>
+    <meta content="../img/know-your-razors.webp" name='twitter:image'/>
     <meta content='@sebs_tweets' name='twitter:creator'/>
     <meta content='@sebs_tweets' name='twitter:site'/>
     <meta content='sebs.website' name='twitter:title'/>
     <meta name="keywords" content="software development, software engineering, datablast, fat tony's"/>
 
-    <title>Sebastian David Lees · Homepage</title>
+    <title>Know your Razors, Guillotines & Hammers</title>
     <meta content='https://sebs.website/about' property='og:url'/>
-    <meta name="description" content="Personal and professional homepage of Sebastian David Lees. Sebastian is a software engineer and tinkerer who has spent over fifteen years building web applications and online experiences.">
-    <meta content="Personal and professional homepage of Sebastian David Lees. Sebastian is a software engineer and tinkerer who has spent over fifteen years building web applications and online experiences."  name='twitter:description'/>
-    <meta content="Personal and professional homepage of Sebastian David Lees. Sebastian is a software engineer and tinkerer who has spent over fifteen years building web applications and online experiences."  property='og:description'/>
+    <meta name="description" content="<p>Navigating modernity can be tough. Luckily philosophers, poets, and great thinkers over the centuries has developed a number of mental shortcuts, in the form of heuristics, razors, guillotines, and other aphorisms.</p>">
+    <meta content="<p>Navigating modernity can be tough. Luckily philosophers, poets, and great thinkers over the centuries has developed a number of mental shortcuts, in the form of heuristics, razors, guillotines, and other aphorisms.</p>"  name='twitter:description'/>
+    <meta content="<p>Navigating modernity can be tough. Luckily philosophers, poets, and great thinkers over the centuries has developed a number of mental shortcuts, in the form of heuristics, razors, guillotines, and other aphorisms.</p>"  property='og:description'/>
 
     <!-- Bootstrap, CSS & JS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
@@ -103,41 +103,53 @@
 
 
       <!-- content -->
-
 <section class="content">
   <div class="container mt-3">
-    <div class="row">
-      <div class="lh-100 w-100">
-        <h3 class="mb-0 lh-100 space-mono">👋 Hello</h3>
-          <p class="mt-3">I'm a software engineer & tinkerer, and have been building digital products for 15+ years. You can read more <a href="/about">about me</a> here.</p>
-        <hr class="mb-4">
-      </div>
-      <div class="lh-100 w-100">
-        <h3 class="mb-0 lh-100 space-mono">🖋️ Blog</h3>
-        <p class="mt-3">Over the years I've written articles on software development, pubs, and other stuff. You can read them <a href="/blog">here</a>.</p>
-        <hr>
-      </div>
-      <div class="lh-100 w-100">
-        <h3 class="mb-0 lh-100 space-mono">📸 Photography</h3>
-          <p class="mt-3">I'm a hobby photographer, and Leica fan. I enjoy taking photos of my travels, mainly <a href="/photography">street and architectural photography</a>.</p>
-        <hr>
-      </div>
-      <div class="lh-100 w-100">
-        <h3 class="mb-0 lh-100 space-mono">🎙️ Podcast</h3>
-        <p class="mt-3">In 2020, I created <a href="https://fattonys.net">Fat Tony's</a>, a podcast and community designed to help people navigate modernity.</p>
-        <hr class="mb-4">
-      </div>
-      <div class="lh-100 w-100">
-        <h3 class="mb-0 lh-100 space-mono">🛠️ Software Consulting</h3>
-        <p class="mt-3">Need help building software? I offer a range of software consulting services. Contact me <a href="https://datablast.com/contact">here</a>.</p>
-        <hr class="mb-4">
-      </div>
+    <div class="col-md-10 offset-md-1">
+      <h1 class="mb-3 lh-100 space-mono">
+      Know your Razors, Guillotines & Hammers
+      </h1>
+      <span class="small footer mt-3 no-underline me-3">Jul 16, 2023</span>
+        <span class="badge rounded-pill text-bg-primary mb-3 bkg-blue">Navigating Modernity</span>
+      <img src="../img/know-your-razors.webp" width="100%" class="rounded-2 mb-3" />
+      <div class="article mt-3">
+        <p>Navigating modernity can be tough. Luckily philosophers, poets, and great thinkers over the centuries has developed a number of mental shortcuts, in the form of heuristics, razors, guillotines, and other aphorisms. We’ve collected the most important ones here in a ‘cheat sheet’ of sorts. Memorize these, and you may never look at the world in the same way again…</p>
+<p><strong>Alder’s Razor</strong></p>
+<p>If something cannot be settled by experiment or observation, then it is not worthy of debate.</p>
+<p><strong>Chesterton’s Fence</strong></p>
+<p>Reforms should not be made until the reasons behind the existing state of affairs is understood.</p>
+<p><strong>Duck Test</strong></p>
+<p>The duck test is a form of abductive reasoning, usually expressed as “If it looks like a duck, swims like a duck, and quacks like a duck, then it probably is a duck.”</p>
+<p><strong>Grice’s razor (also known as Giume’s razor)</strong></p>
+<p>As a principle of parsimony, conversational implications are to be preferred over semantic context for linguistic explanations. AKA Address what the speaker actually meant, instead of addressing the literal meaning of what they actually said</p>
+<p><strong>Hanlon’s Razor</strong></p>
+<p>Never Attribute to malice that which can be adequately explained by stupidity.</p>
+<p><strong>Hitchen’s Razor</strong></p>
+<p>What can be asserted without evidence can also be dismissed without evidence.</p>
+<p><strong>Hobson’s Choice</strong></p>
+<p>A free choice where only one choice is offered</p>
+<p><strong>Hume’s Guillotine</strong></p>
+<p>If the cause, assigned for any effect, be not sufficient to produce it, we must either reject that cause or add to it such qualities as will give it a just proportion to the effect.</p>
+<p><strong>Occam’s Razor</strong></p>
+<p>When confronted with competing explanations, often the explanation with the fewest assumptions is the correct explanation.</p>
+<p><strong>Maslow’s Hammer</strong></p>
+<p>To treat everything as if it were a nail, If the only tool you have is a hammer.</p>
+<p><strong>Popper’s Falsifiability Principle</strong></p>
+<p>For a theory to be considered scientific, it must be falsifiable.</p>
+<p><strong>Sagan Standard</strong></p>
+<p>Extraordinary claims require extraordinary evidence.</p>
+<p><strong>Shirky Principle</strong></p>
+<p>Institutions will try to preserve the problem to which they are the solution.</p>
+      </div><!-- .content -->
+      <hr class="mt-5">
+      <p>If you've made it this for I owe you a beer the next time I see you 🍺. Want to get in touch? <a href="http://twitter.com/sebs_tweets">Follow me on Twitter(X)</a>.</p>
+      <hr>
     </div>
   </div>
-</section><!-- /#content -->
+</section>
 
 <script>
-  let element = document.getElementById("home-link");
+  let element = document.getElementById("blog-link");
   element.classList.add("selected-link");
 </script>
 

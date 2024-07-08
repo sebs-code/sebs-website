@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block title %}Blog{% endblock %}
+{% block og_title %}Blog{% endblock og_title %}
+{% block description %}Welcome to my blog. Here you'll find articles of Software Development, Pubs, and other random topics.{% endblock description %}
+{% block x_description %}Welcome to my blog. Here you'll find articles of Software Development, Pubs, and other random topics.{% endblock x_description %}
+{% block og_description %}Welcome to my blog. Here you'll find articles of Software Development, Pubs, and other random topics.{% endblock og_description %}
+{% block og_image %}https://sebs.website/static/seb.png{% endblock og_image %}
+{% block x_image %}https://sebs.website/static/seb.png{% endblock x_image %}
+
+{% block content %}
+
+<section class="content">
+  <div class="container mt-3">
+    <div class="row">
+      <div class="lh-100">
+        <div class="articles">
+          {% for article in articles_page.object_list %}
+            <a class="no-underline" href="/blog/{{ article.slug }}">
+              <div class="row mb-5 blog-post pb-2 rounded-2">
+                <div class="col-md-8 pe-3 light-black">
+                    <h4 class="mb-0 lh-100 space-mono">{{ article.title }}</h4>
+                    <p>{{ article.summary }}</p>
+                    <h5 class="small footer mt-3">{{ article.locale_date }}</h5>
+                    {% for tag in article.tags %}
+                      <span class="badge rounded-pill text-bg-primary mt-3 bkg-blue" style="text-decoration: none !important;">{{ tag.name }}</span>
+                    {% endfor %}
+                </div>
+                <div class="col-md-4 p-3">
+                  <img src="{{ SITEURL }}/img/{{ article.thumbnail }}" width="100%" class="rounded-2" />
+                </div>
+              </div>
+            </a>
+            <hr class="mb-5">
+          {% endfor %}
+        </div>
+        <div>
+          {% if articles_page.has_other_pages() %}
+            {% include 'pagination.html' %}
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  let element = document.getElementById("blog-link");
+  element.classList.add("selected-link");
+</script>
+
+{% endblock content %}

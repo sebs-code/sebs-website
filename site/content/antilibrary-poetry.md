@@ -1,6 +1,6 @@
 Title: From the Anti-Library: Poetry
 Date: August 10, 2023
-Tags: Poetry, Fat Tony's
+Tags: Fat Tony's, Misc
 Slug: from-the-antilibrary-poetry
 thumbnail: antilibrary-poetry.webp
 Summary: Over the course of its lifetime, the Fat Tony’s Discord server received thousands of posts in it’s Anti-library channel. In the first of series of articles, I’m going to group the best of these book recommendations by genre and present them here for posterity 

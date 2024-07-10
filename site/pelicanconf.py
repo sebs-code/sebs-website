@@ -15,7 +15,7 @@ STATIC_PATHS = ['img/']
 OUTPUT_PATH = 'output/'
 DIRECT_TEMPLATES = ['index', 'about', 'blog', 'photography']
 PAGINATED_TEMPLATES = {'blog': None}
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 15
 
 # Supress Author and Category Generation
 CATEGORY_SAVE_AS = ''

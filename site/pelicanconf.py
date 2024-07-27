@@ -3,7 +3,9 @@ AUTHOR = 'Sebastian David Lees'
 SITENAME = 'Sebastian David Lees Professional & Personal Home Page'
 SITEURL = 'https://sebs.website'
 DEFAULT_LANG = 'en'
+DELETE_OUTPUT_DIRECTORY = True
 TIMEZONE = 'Europe/London'
+DEFAULT_METADATA = {'Content-Type': 'text/html'}
 DATE_FORMATS = {
     'en': '%b %d, %Y',
 }
@@ -26,10 +28,10 @@ AUTHORS_SAVE_AS = ''
 # html content generation
 USE_FOLDER_AS_CATEGORY = False
 DEFAULT_CATEGORY = 'blog'
-ARTICLE_SAVE_AS = 'blog/{slug}'
-TAG_SAVE_AS = "blog/tag/{slug}"
+ARTICLE_SAVE_AS = 'blog/{slug}.html'
+TAG_SAVE_AS = "blog/tag/{slug}.html"
 
-#  Slugs
+# slugs
 ARTICLE_URL = 'blog/{slug}/'
 TAG_URL = "blog/tag/{slug}/"
 

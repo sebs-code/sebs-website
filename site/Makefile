@@ -8,8 +8,10 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-S3_BUCKET=sebs.website
-
+ifneq (,$(wildcard ../.env))
+    include ../.env
+    export
+endif
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -73,6 +75,12 @@ publish:
 
 s3_upload: publish
 	aws s3 sync "$(OUTPUTDIR)"/ s3://$(S3_BUCKET) --acl public-read --delete
-
+	aws s3 mv s3://$(S3_BUCKET)/blog-bare/ s3://$(S3_BUCKET)/blog/ --recursive --acl public-read --content-type text/html
+	aws s3 mv s3://$(S3_BUCKET)/about.html s3://$(S3_BUCKET)/about --acl public-read
+	aws s3 mv s3://$(S3_BUCKET)/blog.html s3://$(S3_BUCKET)/blog --acl public-read
+	aws s3 mv s3://$(S3_BUCKET)/photography.html s3://$(S3_BUCKET)/photography --acl public-read
+	AWS_PAGER="" aws cloudfront create-invalidation \
+		--distribution-id $(CLOUDFRONT_DISTRIBUTION_ID) \
+		--paths "/*"
 
 .PHONY: html help clean regenerate serve serve-global devserver publish s3_upload

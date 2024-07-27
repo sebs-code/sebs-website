@@ -15,6 +15,12 @@ CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
+# OVERRIDE html content generation
+USE_FOLDER_AS_CATEGORY = False
+DEFAULT_CATEGORY = 'blog'
+ARTICLE_SAVE_AS = 'blog-bare/{slug}'
+TAG_SAVE_AS = "blog-bare/tag/{slug}"
+
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""

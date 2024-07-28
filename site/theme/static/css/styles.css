@@ -77,12 +77,37 @@ ul {
   text-decoration: underline dotted !important;
 }
 
+.social-link-first  {
+  margin: 5px 0px 5px 0px;
+}
+
+.social-link-first:hover  {
+  text-decoration: none !important;
+}
+
 .social-link  {
   margin: 5px 0px 5px -6px;
 }
 
 .social-link:hover  {
   text-decoration: none !important;
+}
+
+.social-group {
+  display: block;
+}
+
+@media (min-width: 800px) {
+  .social-group {
+    float: right;
+    display: block;
+  }
+}
+
+@media (min-width: 800px) {
+  .social-footer {
+    display: none;
+  }
 }
 
 .underline:hover {

@@ -13,7 +13,7 @@
         <div class="articles">
           {% for article in articles_page.object_list %}
             <a class="no-underline" href="/blog/{{ article.slug }}">
-              <div class="row mb-5 blog-post pb-2">
+              <div class="row blog-post pb-2">
                 <div class="col-md-8 pe-3 light-black">
                     <h4 class="mb-0 lh-100 space-mono">{{ article.title }}</h4>
                     <p>{{ article.summary }}</p>
@@ -27,7 +27,7 @@
                 </div>
               </div>
             </a>
-            <hr class="mb-5">
+            <hr class="mb-5 mt-5">
           {% endfor %}
         </div>
         <div>

@@ -178,3 +178,9 @@ ul {
   font-size: 35px;
   line-height: 70px;
 }
+
+/* ------ Home ------ */
+.home-icon {
+  width: calc(1.3rem + .6vw);
+  height: calc(1.3rem + .6vw);
+}

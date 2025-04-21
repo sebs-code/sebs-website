@@ -1,8 +1,8 @@
-Title: Software Development Haikus
+Title: Software Development Haiku
 Date: April 21, 2025
 Tags: Software Development
-Slug: software-development-haikus
-Summary: Some software development haikus I wrote on an idle Monday.
+Slug: software-development-haiku
+Summary: Some software development haiku I wrote on an idle Monday.
 
 Bend tech to my will,  
 They think I’m a genius.  

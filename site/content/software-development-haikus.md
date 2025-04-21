@@ -1,5 +1,5 @@
 Title: Software Development Haiku
-Date: April 21, 2025
+Date: April 20, 2025
 Tags: Software Development
 Slug: software-development-haiku
 Summary: Some software development haiku I wrote on an idle Monday.

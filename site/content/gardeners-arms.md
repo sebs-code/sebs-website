@@ -2,7 +2,6 @@ Title: Farewell to the Gardeners Arms
 Date: April 28, 2023
 Tags: Pubs
 Slug: farewell-to-the-gardeners-arms
-thumbnail: gardeners-arms.webp
 Summary: The other day I received bittersweet news that the Gardeners Arms in Oxford had closed; bitter because it’s my favourite pub in the world. Sweet, because I know long time custodians David and Jenny are now enjoying a well deserved retirement after 30 years behind the bar.
 
 

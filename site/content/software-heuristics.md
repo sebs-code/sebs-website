@@ -2,7 +2,6 @@ Title: Heuristics and Aphorisms from a Decade in Software Development
 Date: February 20, 2022
 Tags: Software Development
 Slug: sofware-development-heuristics-and-aphorisms
-thumbnail: heuristics-and-aphorisms.webp
 Summary: An average developer who is a great communicator will be far more successful than a great developer who is an average communicator.
 
 1. The code you will find most jarring to review is your own, six months from now.

@@ -2,7 +2,6 @@ Title: Know your Razors, Guillotines & Hammers
 Date: July 16, 2023
 Tags: Misc
 Slug: know-your-razors-guillotines-and-hammers
-thumbnail: know-your-razors.webp
 Summary: Navigating modernity can be tough. Luckily philosophers, poets, and great thinkers over the centuries has developed a number of mental shortcuts, in the form of heuristics, razors, guillotines, and other aphorisms. 
 
 Navigating modernity can be tough. Luckily philosophers, poets, and great thinkers over the centuries has developed a number of mental shortcuts, in the form of heuristics, razors, guillotines, and other aphorisms. We’ve collected the most important ones here in a ‘cheat sheet’ of sorts. Memorize these, and you may never look at the world in the same way again…

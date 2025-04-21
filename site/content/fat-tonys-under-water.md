@@ -1,8 +1,7 @@
 Title: Fat Tony’s Under Water: My Dream Startup Incubator
 Date: May 29, 2024
-Tags: Fat Tony's, Pubs, Software Development
+Tags: Fat Tony's, Pubs
 Slug: fat-tonys-under-water-my-dream-startup-incubator
-thumbnail: fat-tonys-under-water.webp
 Summary: In 1946 George Orwell wrote his short essay ‘The Moon Under Water’, describing what his dream pub would look like. Heavily influenced by this (in fact, some paragraphs are nearly identical), I have decided to write a modern version of Orwell’s essay, describing my dream startup incubator.
 
 **Background: In 1946 George Orwell wrote his short essay ‘The Moon Under Water’, describing what his dream pub would look like. Heavily influenced by this (in fact, some paragraphs are nearly identical), I have decided to write a modern version of Orwell’s essay, describing my dream startup incubator.**

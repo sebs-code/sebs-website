@@ -2,7 +2,6 @@ Title: Au Revoir to Discord
 Date: April 04, 2023
 Tags: Fat Tony's
 Slug: au-revoir-to-discord
-thumbnail: au-revoir-to-discord.webp
 Summary: After two wonderful years of Happy Hours, Book Klubs, and thousands of conversations, we will be closing down the Fat Tony’s Discord server on November 13th.
 
 ***“No public institution or agency should be created without an expiration date.”*** - Nassim Taleb.

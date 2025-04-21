@@ -2,7 +2,6 @@ Title: Welcome back to the Lamb & Flag
 Date: March 09, 2023
 Tags: Pubs
 Slug: welcome-back-to-the-lamb-and-flag
-thumbnail: welcome-back-lamb-and-flag.webp
 Summary: Last week I received great news — The historic Lamb and Flag in Oxford has reopened.
 
 Last week I received great news — The Lamb and Flag in Oxford has reopened.

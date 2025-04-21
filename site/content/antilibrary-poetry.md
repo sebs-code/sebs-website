@@ -2,11 +2,10 @@ Title: From the Anti-Library: Poetry
 Date: August 10, 2023
 Tags: Fat Tony's, Misc
 Slug: from-the-antilibrary-poetry
-thumbnail: antilibrary-poetry.webp
 Summary: Over the course of its lifetime, the Fat Tony’s Discord server received thousands of posts in it’s Anti-library channel. In the first of series of articles, I’m going to group the best of these book recommendations by genre and present them here for posterity 
 
-**Good poetry allows us to see into the soul of another person. Great poetry allows us to see into our own.**
-
+Good poetry allows us to see into the soul of another person. Great poetry allows us to see into our own.  
+  
 Over the course of its lifetime, the Fat Tony’s Discord server received thousands of posts in it’s Anti-library channel. In the first of series of articles, I’m going to group the best of these book recommendations by genre and present them here for posterity. This month, poetry.
 
 Good poetry allows us to see into the soul of another person. Great poetry allows us to see into our own soul. It offers us a rare, soothing glimpse of ways of thinking about the world outside of our conventional experience. Like all great art forms, it is both therapeutic for reader and listener, and can be a soothing antidote against the stress of modernity.

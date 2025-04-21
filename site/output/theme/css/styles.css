@@ -7,6 +7,7 @@
   --orange: #F39C12;
   --light-grey: #f0f0f0;
   --grey: grey;
+  --border-grey: #c4c4c4
 }
 
 body {
@@ -19,6 +20,10 @@ h3,
 h4,
 h5 {
   color: var(--light-black);
+}
+
+p {
+  line-height: 1.7;
 }
 
 a {
@@ -141,6 +146,10 @@ ul {
   color: white;
 }
 
+.sidebar {
+  border-left: 1px solid var(--border-grey);
+}
+
 
 /* ------ Fonts ------ */
 .space-mono {
@@ -159,7 +168,6 @@ ul {
 }
 
 /* ------ Colours ------ */
-
 .light-black, .light-black:hover {
   color: var(--light-black) !important;
 }
@@ -169,14 +177,23 @@ ul {
    background-color: var(--blue) !important;
 }
 
+/* ------ Hovers ------ */
+.hover-orange:hover {
+  background-color: var(--orange) !important;
+}
+
 /* ------ Blog ------ */
 .article {
   font-size: 1.1rem;
 }
 
-.first-letter {
-  font-size: 35px;
-  line-height: 70px;
+.blog-title {
+  color: var(--blue);
+  transition: ease-in-out 0.3s;
+}
+
+.blog-title:hover {
+  color: var(--orange);
 }
 
 /* ------ Home ------ */

@@ -29,11 +29,11 @@ AUTHORS_SAVE_AS = ''
 USE_FOLDER_AS_CATEGORY = False
 DEFAULT_CATEGORY = 'blog'
 ARTICLE_SAVE_AS = 'blog/{slug}.html'
-TAG_SAVE_AS = "blog/tag/{slug}.html"
+TAG_SAVE_AS = "blog/{slug}.html"
 
 # slugs
 ARTICLE_URL = 'blog/{slug}/'
-TAG_URL = "blog/tag/{slug}/"
+TAG_URL = "blog/{slug}/"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

@@ -2,7 +2,6 @@ Title: IT consultants need to start acting like accountants, solicitors, and arc
 Date: August 19, 2024
 Tags: Software Development
 Slug: it-consultant-need-to-start-acting-like-accountants-solicitors-and-architects
-thumbnail: ir35.webp
 Summary:In the wake of IR35 legislation, I believe there is an exciting opportunity for IT contractors... if they start acting like accountants, solicitors, and architects.
 
 

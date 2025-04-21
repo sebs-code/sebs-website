@@ -2,7 +2,6 @@ Title: Micro-hubs are the Future of Work
 Date: April 14, 2022
 Tags: Misc
 Slug: microhubs-are-the-future-of-work
-thumbnail: microhubs.webp
 Summary: Working from home sucks for a lot of people. Conversely, people are in no rush to return to long commutes to soulless city centres offices. A decentralised network of micro-hubs would allow people to work locally, inject accountability into communities and help regenerate the high-street. 
 
 Working from home sucks for a lot of people. Conversely, people are in no rush to return to long commutes to soulless city centres offices. A decentralised network of micro-hubs would allow people to work locally, inject accountability into communities and help regenerate the high-street. Micro-hubs are the future of office working.

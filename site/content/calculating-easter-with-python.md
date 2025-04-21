@@ -10,7 +10,7 @@ print(easter(2010))
 2010-04-04  
 ```
   
-The function also has an argument, where you can specific the type of Easter calculation you would like:  
+The function also has an argument, where you can specify the type of Easter calculation you would like:  
   
 1 = Easter Julian  
 2 = Easter Orthodox  

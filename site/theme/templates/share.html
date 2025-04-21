@@ -4,7 +4,7 @@
   {% endfor %}
   <a onclick="window.navigator.clipboard.writeText('https://sebs.website/{{ article.url}}');" type="button" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange float-end ms-1"><i class="fa-solid fa-link"></i></a>
   <a href="http://www.facebook.com/sharer/sharer.php?u=https://sebs.website{{ article.url }}&title={{ article.title }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange float-end ms-1"><i class="fa-brands fa-facebook"></i></a>
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://sebs.website/{{ article.url }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange float-end ms-1"><i class="fa-brands fa-linkedin"></i></a>
+  <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://sebs.website/{{ article.url }}&title={{ article.title }}&source=https://sebs.website" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange float-end ms-1"><i class="fa-brands fa-linkedin"></i></a>
   <a href="http://twitter.com/intent/tweet?text={{ article.title }}+https://sebs.website/{{ article.url }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange float-end ms-1"><i class="fa-brands fa-x-twitter"></i></a>
 </div>
 <div class="w-100 d-block d-md-none">  
@@ -15,8 +15,10 @@
   </div>
   <div class="w-100">  
     <a href="http://twitter.com/intent/tweet?text={{ article.title }}+https://sebs.website/{{ article.url }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange ms-1"><i class="fa-brands fa-x-twitter"></i></a>
-    <a href="https://www.linkedin.com/sharing/share-offsite/&url=https://sebs.website/{{ article.url }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange ms-1"><i class="fa-brands fa-linkedin"></i></a>
+    <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://sebs.website/{{ article.url }}&title={{ article.title }}&source=https://sebs.website" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange ms-1"><i class="fa-brands fa-linkedin"></i></a>
     <a href="http://www.facebook.com/sharer/sharer.php?u=https://sebs.website{{ article.url }}&title={{ article.title }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange ms-1"><i class="fa-brands fa-facebook"></i></a>
     <a onclick="window.navigator.clipboard.writeText('https://sebs.website/{{ article.url }}');" type="button" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange ms-1"><i class="fa-solid fa-link"></i></a>
   </div>
 </div>
+
+

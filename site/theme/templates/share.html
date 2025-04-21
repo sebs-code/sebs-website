@@ -1,0 +1,22 @@
+<div class="w-100 d-none d-md-block">  
+  {% for tag in article.tags %}
+    <a href="{{ SITEURL }}/{{ tag.url }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange me-1" style="text-decoration: none !important;">{{ tag.name }}</a>
+  {% endfor %}
+  <a onclick="window.navigator.clipboard.writeText('https://sebs.website/{{ article.url}}');" type="button" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange float-end ms-1"><i class="fa-solid fa-link"></i></a>
+  <a href="http://www.facebook.com/sharer/sharer.php?u=https://sebs.website{{ article.url }}&title={{ article.title }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange float-end ms-1"><i class="fa-brands fa-facebook"></i></a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.sebs.website/{{ article.url }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange float-end ms-1"><i class="fa-brands fa-linkedin"></i></a>
+  <a href="http://twitter.com/intent/tweet?text={{ article.title }}+https://sebs.website/{{ article.url }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange float-end ms-1"><i class="fa-brands fa-x-twitter"></i></a>
+</div>
+<div class="w-100 d-block d-md-none">  
+  <div class="w-100">
+    {% for tag in article.tags %}
+      <a href="{{ SITEURL }}/{{ tag.url }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange me-1" style="text-decoration: none !important;">{{ tag.name }}</a>
+    {% endfor %}
+  </div>
+  <div class="w-100">  
+    <a href="http://twitter.com/intent/tweet?text={{ article.title }}+https://sebs.website/{{ article.url }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange ms-1"><i class="fa-brands fa-x-twitter"></i></a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/&url=https://www.sebs.website/{{ article.url }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange ms-1"><i class="fa-brands fa-linkedin"></i></a>
+    <a href="http://www.facebook.com/sharer/sharer.php?u=https://sebs.website{{ article.url }}&title={{ article.title }}" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange ms-1"><i class="fa-brands fa-facebook"></i></a>
+    <a onclick="window.navigator.clipboard.writeText('https://sebs.website/{{ article.url }}');" type="button" class="badge rounded-pill text-bg-primary mt-3 bkg-blue hover-orange ms-1"><i class="fa-solid fa-link"></i></a>
+  </div>
+</div>

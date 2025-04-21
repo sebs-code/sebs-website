@@ -32,8 +32,8 @@ ARTICLE_SAVE_AS = 'blog/{slug}.html'
 TAG_SAVE_AS = "blog/{slug}.html"
 
 # slugs
-ARTICLE_URL = 'blog/{slug}/'
-TAG_URL = "blog/{slug}/"
+ARTICLE_URL = 'blog/{slug}'
+TAG_URL = "blog/{slug}"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

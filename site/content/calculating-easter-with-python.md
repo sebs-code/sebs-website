@@ -14,7 +14,7 @@ The function also has an argument, where you can specify the type of Easter calc
   
 1 = Easter Julian  
 2 = Easter Orthodox  
-3 = East Western  
+3 = Easter Western  
   
 ```
 print(easter(2010, 1))

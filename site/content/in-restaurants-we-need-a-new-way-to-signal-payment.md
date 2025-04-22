@@ -1,4 +1,4 @@
-Title: In restaurants, We need a new way to signal that we're ready to pay. 
+Title: In restaurants, We need a new way to signal that we're ready to pay 
 Date: April 22, 2025
 Tags: Behavioural Science, UX
 Slug: in-restaurants-we-need-a-new-way-to-signal-payment

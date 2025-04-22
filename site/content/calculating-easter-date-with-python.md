@@ -1,4 +1,4 @@
-Title: Calculating The Date of Easter with Python
+Title: Calculating the date of Easter with Python
 Date: April 21, 2025
 Tags: Software Development
 Slug: calculating-easter-date-with-python

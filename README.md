@@ -3,4 +3,4 @@ My personal and professional homepage. Created with [Pelican](https://https://ge
 
 The live version is [here](https://sebs.website).
 
-All material (include code) © Sebastian David Lees. Not for reuse. 
+All material (including code) © Sebastian David Lees. Not for reuse. 

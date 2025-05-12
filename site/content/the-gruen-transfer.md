@@ -1,7 +1,7 @@
 Title: The Gruen Transfer is consuming the internet
 Date: April 23, 2025
 Tags: Behavioural Science, Software Development
-Slug: the gruen-transfer-is-consuming-the-internet
+Slug: the-gruen-transfer-is-consuming-the-internet
 Summary: The Gruen Transfer is taking over social media. What is it and how can we avoid it?
 
 Have you ever walked into a supermarket, pharmacy, or department store looking to buy a specific item, only to find the layout confusing? Perhaps you ended up aimlessly strolling around, purchasing other items? This is deliberate, and known as the Gruen Transfer.  

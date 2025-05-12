@@ -1,0 +1,132 @@
+[
+  {
+    "source": "/blog/the%20gruen-transfer-is-consuming-the-internet",
+    "status": "301",
+    "target": "/blog/the-gruen-transfer-is-consuming-the-internet"
+  },
+  {
+    "source": "/<*>",
+    "status": "404-200",
+    "target": "/404.html"
+  },
+  {
+    "source": "/photography/",
+    "target": "/photography",
+    "status": "301"
+  },
+  {
+    "source": "/blog/",
+    "target": "/blog",
+    "status": "301"
+  },
+  {
+    "source": "/talks-and-interviews/",
+    "target": "/talks-and-interviews",
+    "status": "301"
+  },
+  {
+    "source": "/about/",
+    "target": "/about",
+    "status": "301"
+  },
+  {
+    "source": "/blog/from-the-antilibrary-poetry/",
+    "target": "/blog/from-the-antilibrary-poetry",
+    "status": "301"
+  },
+  {
+    "source": "/blog/the gruen-transfer-is-consuming-the-internet/",
+    "target": "/blog/the gruen-transfer-is-consuming-the-internet",
+    "status": "301"
+  },
+  {
+    "source": "/blog/farewell-to-the-gardeners-arms/",
+    "target": "/blog/farewell-to-the-gardeners-arms",
+    "status": "301"
+  },
+  {
+    "source": "/blog/software-development-haiku/",
+    "target": "/blog/software-development-haiku",
+    "status": "301"
+  },
+  {
+    "source": "/blog/behavioural-science/",
+    "target": "/blog/behavioural-science",
+    "status": "301"
+  },
+  {
+    "source": "/blog/calculating-easter-date-with-python/",
+    "target": "/blog/calculating-easter-date-with-python",
+    "status": "301"
+  },
+  {
+    "source": "/blog/fat-tonys-under-water-my-dream-startup-incubator/",
+    "target": "/blog/fat-tonys-under-water-my-dream-startup-incubator",
+    "status": "301"
+  },
+  {
+    "source": "/blog/welcome-back-to-the-lamb-and-flag/",
+    "target": "/blog/welcome-back-to-the-lamb-and-flag",
+    "status": "301"
+  },
+  {
+    "source": "/blog/it-consultant-need-to-start-acting-like-accountants-solicitors-and-architects/",
+    "target": "/blog/it-consultant-need-to-start-acting-like-accountants-solicitors-and-architects",
+    "status": "301"
+  },
+  {
+    "source": "/blog/sofware-development-heuristics-and-aphorisms/",
+    "target": "/blog/sofware-development-heuristics-and-aphorisms",
+    "status": "301"
+  },
+  {
+    "source": "/blog/pubs/",
+    "target": "/blog/pubs",
+    "status": "301"
+  },
+  {
+    "source": "/blog/know-your-razors-guillotines-and-hammers/",
+    "target": "/blog/know-your-razors-guillotines-and-hammers",
+    "status": "301"
+  },
+  {
+    "source": "/blog/software-development/",
+    "target": "/blog/software-development",
+    "status": "301"
+  },
+  {
+    "source": "/blog/microhubs-are-the-future-of-work/",
+    "target": "/blog/microhubs-are-the-future-of-work",
+    "status": "301"
+  },
+  {
+    "source": "/blog/i-will-not-do-you-a-quick-favour/",
+    "target": "/blog/i-will-not-do-you-a-quick-favour",
+    "status": "301"
+  },
+  {
+    "source": "/blog/misc/",
+    "target": "/blog/misc",
+    "status": "301"
+  },
+  {
+    "source": "/blog/fat-tonys/",
+    "target": "/blog/fat-tonys",
+    "status": "301"
+  },
+  {
+    "source": "/blog/ux/",
+    "target": "/blog/ux",
+    "status": "301"
+  },
+  {
+    "source": "/blog/in-restaurants-we-need-a-new-way-to-signal-payment/",
+    "target": "/blog/in-restaurants-we-need-a-new-way-to-signal-payment",
+    "status": "301"
+  },
+  {
+    "source": "/blog/au-revoir-to-discord/",
+    "target": "/blog/au-revoir-to-discord",
+    "status": "301"
+  }
+]

@@ -19,4 +19,3 @@ I wonder where all this will end? There must be a point at which the friction ge
 In the EU, it is a legal requirement to allow your customers the same method, with the same number of steps and complexity, for canceling as for subscribing. So if it takes 10 seconds to fill in a form online to get subscribed, they need to offer the same ease of use for canceling.  
   
 I like this idea of ‘complexity’ as a measure for legislation. Now if only they could apply the same thing to my local Boots when I'm trying to buy toothpaste.  
-  

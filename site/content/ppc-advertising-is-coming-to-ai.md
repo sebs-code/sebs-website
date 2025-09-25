@@ -1,4 +1,4 @@
-Title: Advertising is coming to AI, and it's going to be product placement on steroidsct
+Title: Advertising is coming to AI, and it's going to be product placement on steroids
 Date: June 5, 2025
 Tags: AI, Software Development
 Slug: pay-per-click-advertising-is-coming-to-an-ai-near-you
